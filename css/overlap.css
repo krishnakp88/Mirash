@@ -1,0 +1,22 @@
+div{
+    width:150px ;
+    height: 150px;
+}
+
+.div{
+    background-color: rebeccapurple;
+    position: relative;
+    top: 262px;
+    left: 150px;
+}
+.div1{
+    background-color: royalblue;
+    position: absolute;
+    left: 125px;
+    bottom: 125px;
+}
+.div2{
+    background-color: green;
+    position: absolute;
+    left: 125px;
+    bottom: 125px;
